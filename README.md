@@ -31,7 +31,6 @@ http://localhost:8080/transfer POST
 * [Spring Data JPA](http://projects.spring.io/spring-data-jpa/)
 * [H2 Database](http://www.h2database.com/html/main.html)
 * [Maven](https://maven.apache.org/)
-* [Project Lombok](https://projectlombok.org/)
 * [JUnit](http://junit.org/junit4/)
 * Для сборки в исполняемый jar использовался
 ```sh
